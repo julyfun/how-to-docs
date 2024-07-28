@@ -32,6 +32,12 @@ theme:
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+
 extra:
   social:
     - icon: fontawesome/brands/github
