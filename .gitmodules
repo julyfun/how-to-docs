@@ -1,3 +1,4 @@
 [submodule "how-to"]
 	path = docs
 	url = https://github.com/julyfun/how-to.git
+	shallow = true
