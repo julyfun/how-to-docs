@@ -1,7 +1,11 @@
 site_name: How to
 site_url: https://how-to.fun
+site_author: Julyfun
+site_description: >-
+  How to do anything.
 repo_name: how-to
 repo_url: https://github.com/julyfun/how-to
+
 theme:
   name: material
   features:
