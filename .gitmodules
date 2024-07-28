@@ -1,0 +1,3 @@
+[submodule "how-to"]
+	path = docs
+	url = git@github.com:julyfun/how-to
