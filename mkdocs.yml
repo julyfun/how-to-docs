@@ -36,3 +36,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/julyfun/how-to
+  analytics:
+    provider: google
+    property: G-09J8ZCVSWW
