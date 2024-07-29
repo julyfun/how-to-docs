@@ -41,8 +41,9 @@ theme:
 markdown_extensions:
   - admonition
   - attr_list
-  - md_in_html
   - footnotes
+  - md_in_html
+  - pymdownx.magiclink
 
 extra:
   social:
