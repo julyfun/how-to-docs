@@ -2,7 +2,7 @@ site_name: How to
 site_url: https://how-to.fun
 site_author: Julyfun
 site_description: >-
-  How to do anything.
+  How to reproduce and solve a problem, tested very useful.
 repo_name: how-to
 repo_url: https://github.com/julyfun/how-to
 
@@ -55,3 +55,11 @@ extra:
   analytics:
     provider: google
     property: G-09J8ZCVSWW
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+  - minify:
+      minify_html: true
