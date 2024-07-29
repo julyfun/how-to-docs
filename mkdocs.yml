@@ -61,5 +61,7 @@ plugins:
       lang:
         - zh
         - en
+      # very useful. ref: https://squidfunk.github.io/mkdocs-material/blog/2022/05/05/chinese-search-support/?h=%E6%9B%B4
+      separator: '[\s\u200b\-]' 
   - minify:
       minify_html: true
