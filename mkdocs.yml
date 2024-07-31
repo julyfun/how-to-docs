@@ -5,17 +5,19 @@ site_description: >-
   How to reproduce and solve a problem, tested very useful.
 repo_name: how-to
 repo_url: https://github.com/julyfun/how-to
+edit_uri: edit/main/
 
 theme:
   name: material
   features:
+    - content.action.edit
+    - content.code.annotate
     - header.autohide
     - navigation.tracking
     - navigation.top
     - search.highlight
     - search.share
     - search.suggest
-    - content.code.annotate
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
